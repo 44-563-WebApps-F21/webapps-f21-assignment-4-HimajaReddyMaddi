@@ -17,3 +17,9 @@ table{
 #head{background-color: rgb(238, 172, 213);}
 tr:nth-child(even){background-color:rgb(200, 235, 149);}
 tr:nth-child(odd){background-color:rgb(176, 233, 235);}
+
+span.name:hover{color: rgb(21, 221, 104);
+    text-shadow: 1px 1px 1px #db2828;
+    border-style:solid;
+    border-color: black;
+}
