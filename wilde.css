@@ -7,3 +7,13 @@ p.char1{color: blue; }
 p.char2{color: rgb(221, 21, 161);}
 span.char1{color: black;}
 span.a:hover{background-color: rgb(65, 201, 225);}
+table{
+    border-style:solid; 
+    text-align: center;
+            border-width:2px; 
+            border-color:rgb(216, 112, 173); 
+            padding:10px;
+}
+#head{background-color: rgb(238, 172, 213);}
+tr:nth-child(even){background-color:rgb(200, 235, 149);}
+tr:nth-child(odd){background-color:rgb(176, 233, 235);}
