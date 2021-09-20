@@ -1,0 +1,9 @@
+p{font-style: arial;font-size: 10;}
+#direction{color:red}
+#name{color:rgb(61, 221, 21)}
+span.a{color:green;background-color:
+     rgb(235, 191, 198);}
+p.char1{color: blue; }
+p.char2{color: rgb(221, 21, 161);}
+span.char1{color: black;}
+span.a:hover{background-color: rgb(65, 201, 225);}
