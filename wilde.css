@@ -23,3 +23,17 @@ span.name:hover{color: rgb(21, 221, 104);
     border-style:solid;
     border-color: black;
 }
+
+.glyphicon glyphicon-star{
+    color:black;
+}
+h4{font-style: italic;
+font-weight: bold;}
+li {
+    display:block;
+	width:120px;
+	float:left;
+	margin-left:2px;
+	border:2px solid #000;
+  }
+
